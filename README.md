@@ -1,2 +1,2 @@
-# paper-stack
+# Paper Stack
 Paper Stack
